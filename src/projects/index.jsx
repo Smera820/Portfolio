@@ -15,10 +15,10 @@ export const projects = [
         technologies: ["React.js", "Tailwind CSS"]
     },
     {
-        title: "Portfolio Website",
+        title: "Quiz App",
         image: "https://img.freepik.com/premium-photo/close-up-colorful-object-black-surface-generative-ai_955925-45713.jpg",
-        description: "A personal portfolio website showcasing projects, skills and contact information",
-        technologies: ["React.js", "Tailwind CSS"]
+        description: "Developed an interactive quiz application using React, allowing users to answer questions with instant score feedback.",
+        technologies: ["React.js","JavaScript", "CSS"]
     }
 ]
 
