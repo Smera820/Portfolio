@@ -1,4 +1,4 @@
-import logo from '../assets/s.png'
+import logo from '../assets/ss.png'
 import { FaGithub, FaLinkedin } from 'react-icons/fa'
 
 function Navbar() {
